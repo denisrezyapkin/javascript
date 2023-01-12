@@ -1,0 +1,16 @@
+.text-center {
+	text-align: center;
+}
+
+.out-7 {
+	width: 50px;
+	height: 50px;
+	border: solid 1px #333;
+	margin: 10px 0 0 30px;
+	background-color: #fff;
+}
+
+.out-7_1 {
+	font-size: 14px;
+	padding: 10px;
+}
